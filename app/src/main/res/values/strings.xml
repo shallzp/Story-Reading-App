@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tiny Tales</string>
+    <string name="Qoute">Dive into stories that let your imagination soar and your heart explore.</string>
+    <string name="signUpText">Sign Up</string>
+    <string name="loginText">Login</string>
+    <string name="show_category">Show</string>
+    <string name="read_book">Read</string>
+    <string name="storyText">Stories :</string>
+</resources>
